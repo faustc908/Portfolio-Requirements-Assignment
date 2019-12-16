@@ -1,0 +1,11 @@
+Headline:  Hi, I'm Colin.  I'm a software engineer. Welcome to my portfolio.
+
+Bio:  I'm a recent graduate from Thinkfuls Data Engineering bootcamp.  I'm passionate about programing and love to solve problems.  I'm not afraid of hard work or long hours.  I strive to improve on my skills and learn new ones.  When I'm not coding I am reading, skateboarding, or playing online games.  My gaming life has inspired me to take up a new career path I'm more passionate about.
+
+Quiz app text:
+
+Star Wars Quiz
+
+An interactive web app designed to test your knowledge of the Star Wars universe.  Find out how well you know the famous movie series!
+
+Languages:  HTML5/CSS3/JQuery
